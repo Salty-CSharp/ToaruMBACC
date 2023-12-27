@@ -1,0 +1,12 @@
+[System]
+ProjectName=t_shiki
+[DataFile]
+FileNum= 4
+File01=t_shiki_0.HA6
+
+[BmpcutFile]
+FileNum= 1
+File00=shiki.CG
+
+[PAniFile]
+FileNum= 0

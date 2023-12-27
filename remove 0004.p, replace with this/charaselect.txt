@@ -184,6 +184,16 @@
 	File1 = ACCEL
 	File2 = 0
 
+[CharaNo_042]
+	Name = T_SHIKI
+	File1 = T_SHIKI
+	File2 = T_NANAYA
+
+	CharaNum1 = T_SHIKI
+	CharaNum2 = T_NANAYA
+
+	TagType = 1
+
 // GèHót
 [CharaNo_016]
 	Name = G_AKIHA
